@@ -1,0 +1,16 @@
+nav {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(180deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%);
+    height: 114px;
+    box-shadow: none;
+    position: absolute;
+}
+
+nav .brand-logo {
+    margin-left: 13%;
+    margin-top: 1.5%;
+}
+
+nav ul li {
+    margin-top: 2%;
+}
